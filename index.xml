@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cjolive.co.uk</title>
-    <link>/</link>
+    <link>https://cjolive.github.io/</link>
     <description>Recent content on cjolive.co.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 11 Jan 2020 12:52:36 +0600</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cjolive.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New site</title>
-      <link>/posts/new-site/</link>
+      <link>https://cjolive.github.io/posts/new-site/</link>
       <pubDate>Sat, 11 Jan 2020 12:52:36 +0600</pubDate>
       
-      <guid>/posts/new-site/</guid>
+      <guid>https://cjolive.github.io/posts/new-site/</guid>
       <description>After a long time with nothing but a redirect to a LinkedIn profile 2020 is the year to have a web presence again.</description>
     </item>
     
     <item>
       <title>Chris</title>
-      <link>/author/chris/</link>
+      <link>https://cjolive.github.io/author/chris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/chris/</guid>
+      <guid>https://cjolive.github.io/author/chris/</guid>
       <description>Chris</description>
     </item>
     
