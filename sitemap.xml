@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cjolive.github.io/</loc>
-    <lastmod>2020-01-11T12:52:36+06:00</lastmod>
+    <loc>https://cjolive.github.io/posts/advent-of-code-2020/</loc>
+    <lastmod>2020-12-01T17:45:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cjolive.github.io/posts/new-site/</loc>
-    <lastmod>2020-01-11T12:52:36+06:00</lastmod>
+    <loc>https://cjolive.github.io/</loc>
+    <lastmod>2020-12-01T17:45:13+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://cjolive.github.io/posts/</loc>
+    <lastmod>2020-12-01T17:45:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cjolive.github.io/posts/new-site/</loc>
     <lastmod>2020-01-11T12:52:36+06:00</lastmod>
   </url>
   
